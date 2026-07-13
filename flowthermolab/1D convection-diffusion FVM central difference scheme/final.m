@@ -1,3 +1,4 @@
+% Malalasekera 2nd Edition, example 5.1
 % Convection–Diffusion in 1D using Finite Volume Method
 % Central differencing scheme
 % User specifies number of nodes N
